@@ -1,0 +1,9714 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\begin_modules
+knitr
+customHeadersFooters
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Contents
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 3
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="15" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Serial No.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Topics
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Page No.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Acknowledgement
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+2
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Abstract
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+3
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Historical Background of Breast Cancer
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Introduction 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Data Description
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+6-8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Visualization of the data
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+9-12
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Methodology
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Random Forest Model
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+13-16
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Support Vector Machine
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+17-19
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+K - Nearest Neighbour
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+19-20
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+11
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Results
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+21-27
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+R Codes
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+28-31
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Conclusion
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+32
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Future Prospectus & References
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+32
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Acknowledgement
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We would like to acknowledge and give our warmest thanks to our supervisor
+ 
+\series bold
+Y N V Krishnya Chaitanya
+\series default
+ who made this work possible.
+ His guidance and advice carried us through all the stage of writing our
+ project.
+ We would like to thanks prof 
+\series bold
+Atanu Kumar Ghosh
+\series default
+ for his invaluable support and contributions to this project.
+ We would also like to thank few of our seniors and friends for their support
+ in completion of this project.
+ I would also like to thanks prof.
+ 
+\series bold
+Biswajit Roy
+\series default
+, as our HOD, because of whome we got the opportunity to work on this project.
+ Finally, we would like to thanks our parents and family as a whole for
+ their continuous support and understanding when undertaking and writing
+ my project work.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Abstract
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Breast cancer is a prevalent form of cancer among women worldwide, and early
+ detection significantly improves treatment outcomes.
+ Multivariate analysis techniques offer a promising avenue for enhancing
+ the accuracy and efficiency of breast cancer detection.
+ This project aims to develop a robust breast cancer detection system leveraging
+ multivariate analysis methods.
+ The proposed system will integrate various multivariate analysis techniques
+ such as Random Forest, Support Vector Machines (SVM) and K Nreaest Neighbour
+ to analyze the data.
+ The utilization of multivariate analysis will enable the identification
+ of significant patterns and biomarkers associated with breast cancer across
+ multiple data dimensions.
+ The outcomes of this project are expected to contribute to the advancement
+ of breast cancer detection methods, providing clinicians with a reliable
+ tool for early diagnosis and personalized treatment strategies.
+ Moreover, the insights gained from multivariate analysis may lead to the
+ discovery of novel biomarkers and pathways associated with breast cancer
+ progression, facilitating further research in this critical area of oncology.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Historical Background of Breast Cance
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size large
+In
+\series bold
+ Egypt
+\series default
+\size default
+ It is found that the earliest known descriptions of breast cancer appear
+ in ancient Egyptian medical texts.
+ The Edwin Smith Papyrus (circa 1600 BCE), which is based on earlier texts,
+ describes cases of tumors or ulcers of the breast.
+ But there was no treatment for breast cancer.
+ They treated it with a “fire drill”.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We again found about breast cancer in this era.
+ The Ebers Papyrus (1534 BCE) described breast cancer as the “swelling (tumor)
+ of vessels”.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Greek physician 
+\series bold
+\size large
+Hippocrates
+\series default
+\size default
+, also called the "Father of Medicine," described breast cancer as a humoral
+ disease.
+ He believed it was caused by an imbalance of the body's four humors (blood,
+ phlegm, yellow bile, and black bile), with an excess of black bile causing
+ cancer.
+ He believed that cancer should be left alone, because those who got treatment
+ did not live as long as those who were untreated.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Galen
+\series default
+\size default
+ proposed that breast tumor was a coagulum of black bile in what is known
+ as the Galenic humoral theory.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+During
+\series bold
+\size large
+ Middle age,
+\series default
+ 
+\series bold
+\size default
+Rene
+\series default
+ described the lymhatic theory of origin of breast cancer.
+ Treatments were rudimentary and often involved cauterization, surgery without
+ anesthesia, and herbal remedies.
+ Superstition and religious explanations often dominated medical understanding.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+John Hunter
+\series default
+\size default
+, a Scottish surgeon, told that palpable breast tumors were caused by coagulatio
+n of defective lymph.
+ He told that proposed that some cancers might be cured by surgery if detected
+ early.
+ In 1713, Bernardino Ramazzini observed that nuns often had breast cancer;
+ he blames lack of sexual intercourse as a cause of breast cancer.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In 1838, Johannes 
+\series bold
+\size large
+Muller proposed
+\series default
+\size default
+ that cencer cells developed from the blastema in the normal tissues.
+ In 1882, 
+\series bold
+\size large
+William Halsted
+\series default
+\size default
+ developed the radical mastectomy, a procedure that removed the breast,
+ underlying chest muscle, and lymph nodes.
+ This became the standard treatment for nearly a century.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In 1626, 
+\series bold
+\size large
+Janet Elizabeth Laneclaypon
+\series default
+\size default
+ led an unprecedented study that identified breast cancer risk factors.
+ Then the development of radiation therapy and chemotherapy began to provide
+ new treatment options.
+ The introduction of the mammogram in the 1960s allowed for earlier detection
+ of breast cancer.
+ In 1962, 
+\series bold
+\size large
+Robert Egan
+\series default
+\size default
+ reported the first cases of breast cancer detected using mammography.
+ Breast cancer awareness in the ‘70s promoted by First Lady Betty Ford and
+ journalist Rose Kushner.
+ In 1976, Bernard Fisher showed that less invasive lumpectomy was as effective
+ as disfiguring radical mastectomies.
+ Then Tamoxifen approved for treatment of metastatic breast cancer in 1977.
+ Susan G.
+ Komen Breast Cancer Foundation was founded in 1982.
+ In 1980s-90s the development of breast-conserving surgery (lumpectomy)
+ combined with radiation therapy offered alternatives to radical mastectomy.
+ The identification of genetic mutations (BRCA1 and BRCA2) linked to breast
+ cancer revolutionized understanding and prevention.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size large
+In
+\series bold
+ 21st Century,
+\series default
+\size default
+ advances in genomic medicine have led to personalized treatment plans based
+ on the genetic makeup of tumors.
+ Immunotherapy and other novel therapies continue to be developed.
+ Breast cancer subtypes- HER+, ER+, basal etc were identified via gene expressio
+n profiling in 2000.
+ The 
+\series bold
+CLEOPATRA
+\series default
+ study started from 2010 in favor of combination therapy.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+The history of breast cancer reflects the broader history of medicine, with
+ significant advancements in understanding, detection, and treatment occurring
+ particularly in the last century.
+ Ongoing research continues to improve outcomes and offer hope for more
+ effective treatments in the future.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Introduction
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+C
+\series default
+\size default
+ancer is a disease in which some of the body’s cells grow uncontrollably
+ and spread to other parts of the body.
+ Cancer can start almost anywhere in the human body, which is made up of
+ trillions of cells.
+ Normally, human cells grow and multiply (through a process called cell
+ division) to form new cells as the body needs them.
+ When cells grow old or become damaged, they die, and new cells take their
+ place.Sometimes this orderly process breaks down, and abnormal or damaged
+ cells grow and multiply when they shouldn’t.
+ These cells may form tumors, which are lumps of tissue.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/Nasima K/Downloads/Breast cancer.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+A Dividing Breast Cancer Cell
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Breast cancer is the most commonly diagnosed cancer among women excluding
+ non-melanoma of the skin.Cancer death is one of the major issues for the
+ healthcare environment.
+ It is one of the most significant reasons for women’s death .
+ It is the second leading cause of cancer death among women overall.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Data mining and machine learning techniques are straightforward and effective
+ ways to understand and predict future data.Machine learning is one of the
+ most popular models to easily train machines and create predictive models
+ for successful decision-making.
+ Machine learning helps with early diagnosis of breast cancer and determines
+ the nature of the cancer by analysing the tumour size.
+ Machine learning methods are the leading approaches to obtain favourable
+ outcomes among classification and prediction problems.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cancer detection using multivariate analysis involves the analysis of multiple
+ variables simultaneously to identify patterns and relationships that can
+ be indicative of the presence of cancer.
+ Multivariate analysis can be a powerful tool for integrating and analyzing
+ various data types to improve the accuracy of detection and diagnosis.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+The objective of the study is –
+\end_layout
+
+\begin_layout Itemize
+The classification goal is to find cancer at a early stage when it can be
+ treated and may be cured on the basis of her symptoms.
+\end_layout
+
+\begin_layout Itemize
+Comparison of the performance of the existing models.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Data Description
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The data set of breast cancer patients was obtained from the 2017 November
+ update of the SEER Program of the NCI, which provides information on population
+-based cancer statistics.
+ The data set involved female patients with infiltrating duct and lobular
+ carcinoma breast cancer (SEER primary cites recode NOS histology codes
+ 8522/3) diagnosed in 2006-2010.
+ Patients with unknown tumor size, examined regional LNs, regional positive
+ LNs, and patients whose survival months were less than 1 month were excluded;
+ thus, 4024 patients were ultimately included.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The internal structure of the data is given below:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<echo=F,comment=NA>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+data<- read.csv("E:
+\backslash
+
+\backslash
+4th sem project
+\backslash
+
+\backslash
+Dataset
+\backslash
+
+\backslash
+new data.csv") 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+table(data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+data$X<- NULL 
+\end_layout
+
+\begin_layout Plain Layout
+
+data$Status<-NULL 
+\end_layout
+
+\begin_layout Plain Layout
+
+ # Convert all columns to factor
+\end_layout
+
+\begin_layout Plain Layout
+
+data <- as.data.frame(unclass(data),stringsAsFactors = TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+str(data) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+There are 15 features in the data set :
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Age :-
+\series default
+\size default
+ It refers ages of women..
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Race :-
+\series default
+\size default
+ It refers race of women ,It has 3 categories :'White', 'Black' and 'Other'.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Marital Status :-
+\series default
+\size default
+It refers to the marital status of the women.
+ It has five categories : Married, Divorced, Single, Widowed and Separated.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+T Stage :-
+\series default
+\size default
+ T Stage refers to the size and extent of the primary tumor Category: 'T
+\begin_inset Formula $_{1}$
+\end_inset
+
+','T
+\begin_inset Formula $_{2}$
+\end_inset
+
+','T
+\begin_inset Formula $_{3}$
+\end_inset
+
+','T
+\begin_inset Formula $_{4}$
+\end_inset
+
+'.
+ Using the TNA system, the “T” plus a letter or number (1 to 4) is used
+ to describe the size and location of the tumor.
+ Stage may also be divided into smaller groups that help describe the tumor
+ in even more detail.
+ Specific tumor stage information in listed below:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+T
+\begin_inset Formula $_{1}$
+\end_inset
+
+:
+\series default
+ The tumor in the breast is 20 millimeters (mm) or smaller in size at its
+ widest area.
+ This is a little less than an inch.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+T
+\begin_inset Formula $_{2}$
+\end_inset
+
+:
+\series default
+ The tumor is larger than 20 mm but not larger than 50 mm.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+T
+\begin_inset Formula $_{3}$
+\end_inset
+
+: 
+\series default
+The tumor is larger than 50 mm.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+T
+\begin_inset Formula $_{4}$
+\end_inset
+
+:
+\series default
+ The tumor falls into chest wall or skin or both.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+N Stage :-
+\series default
+\size default
+ N Stage refers to the involvement of nearby lymph nodes Category: 'N
+\begin_inset Formula $_{3}$
+\end_inset
+
+','N
+\begin_inset Formula $_{2}$
+\end_inset
+
+','N
+\begin_inset Formula $_{1}$
+\end_inset
+
+'.
+ The “N” in the TNA staging system stands for lymph nodes.
+ These small, bean-shaped organs help fight infection.
+ Lymph nodes near where the cancer started are called regional lymph nodes.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Regional lymph nodes :
+\series default
+ Lymph nodes located under the arm, called the axillary lymph nodes.
+ Lymph nodes located above and below the collarbone Lymph nodes located
+ under the breastbone, called the internal mammary lymph nodes Lymph nodes
+ in other parts of the body are called distant lymph nodes.
+ The information below describes the staging.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+N
+\begin_inset Formula $_{0}$
+\end_inset
+
+:
+\series default
+ Cancer has not spread to nearby lymph nodes
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+N
+\begin_inset Formula $_{1}$
+\end_inset
+
+:
+\series default
+ The cancer has spread to 1 to 3 axillary lymph nodes and/or the internal
+ mammary lymph nodes.
+ If the cancer in the lymph node is larger than 0.2 mm but 2 mm or smaller,
+ it is called "micrometastatic".
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+N
+\begin_inset Formula $_{2}$
+\end_inset
+
+:
+\series default
+ The cancer has spread to 4 to 9 axillary lymph nodes.
+ Or, it has spread to the internal mammary lymph nodes, but not the axillary
+ lymph nodes.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+N
+\begin_inset Formula $_{3}$
+\end_inset
+
+:
+\series default
+ The cancer has spread to 10 or more axillary lymph nodes, or it has spread
+ to the lymph nodes located under the clavicle, or collarbone.
+ It may have also spread to the internal mammary lymph nodes.
+ Cancer that has spread to the lymph nodes above the clavicle, called the
+ supraclavicular lymph nodes, is also described as N3.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+X6th Stage :-
+\series default
+\size default
+ Doctors assign the stage of the cancer by combining the T, N, and A classificat
+ions , the tumor grade, and the results of ER/PR and HER2 testing.
+ This information is used to help determine the prognosis .
+ The simpler approach to explaining the stage of breast cancer is to use
+ the T, N, and A classifications alone.
+ This is the approach used below to describe the different stages.
+ It has five categories: 'IIIC','IIIA','IIB','IIA' and 'IIIB'.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Stage IIA:
+\series default
+ Any 1 of these conditions: There is no evidence of a tumor in the breast,
+ but the cancer has spread to 1 to 3 axillary lymph nodes.
+ It has not spread to distant parts of the body (T
+\begin_inset Formula $_{0}$
+\end_inset
+
+, N
+\begin_inset Formula $_{1}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ The tumor is 20 mm or smaller and has spread to 1 to 3 axillary lymph nodes
+ (T
+\begin_inset Formula $_{1}$
+\end_inset
+
+, N
+\begin_inset Formula $_{1}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ The tumor is larger than 20 mm but not larger than 50 mm and has not spread
+ to the axillary lymph nodes (T
+\begin_inset Formula $_{2}$
+\end_inset
+
+, N
+\begin_inset Formula $_{0}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Stage IIB:
+\series default
+ Either of these conditions: The tumor is larger than 20 mm but not larger
+ than 50 mm and has spread to 1 to 3 axillary lymph nodes (T
+\begin_inset Formula $_{2}$
+\end_inset
+
+, N
+\begin_inset Formula $_{1}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ The tumor is larger than 50 mm but has not spread to the axillary lymph
+ nodes (T
+\begin_inset Formula $_{3}$
+\end_inset
+
+, N
+\begin_inset Formula $_{0}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Stage IIIA:
+\series default
+ The tumor of any size has spread to 4 to 9 axillary lymph nodes or to internal
+ mammary lymph nodes.
+ It has not spread to other parts of the body (T
+\begin_inset Formula $_{0}$
+\end_inset
+
+, T
+\begin_inset Formula $_{1}$
+\end_inset
+
+, T
+\begin_inset Formula $_{2}$
+\end_inset
+
+, or T
+\begin_inset Formula $_{3}$
+\end_inset
+
+, N
+\begin_inset Formula $_{2}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ Stage IIIA may also be a tumor larger than 50 mm that has spread to 1 to
+ 3 axillary lymph nodes (T
+\begin_inset Formula $_{3}$
+\end_inset
+
+, N
+\begin_inset Formula $_{1}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Stage IIIB: 
+\series default
+The tumor has spread to the chest wall or caused swelling or ulceration
+ of the breast, or it is diagnosed as inflammatory breast cancer.
+ It may or may not have spread to up to 9 axillary or internal mammary lymph
+ nodes.
+ It has not spread to other parts of the body (T
+\begin_inset Formula $_{4}$
+\end_inset
+
+; N
+\begin_inset Formula $_{0}$
+\end_inset
+
+, N
+\begin_inset Formula $_{1}$
+\end_inset
+
+, or N
+\begin_inset Formula $_{2}$
+\end_inset
+
+; M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Stage IIIC:
+\series default
+ A tumor of any size that has spread to 10 or more axillary lymph nodes,
+ the internal mammary lymph nodes, and/or the lymph nodes under the collarbone.
+ It has not spread to other parts of the body (any T, N
+\begin_inset Formula $_{3}$
+\end_inset
+
+, M
+\begin_inset Formula $_{0}$
+\end_inset
+
+).
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Differentiate :-
+\series default
+\size default
+ There are foue categories: 'Moderately differentiated; Grade II' , 'Poorly
+ differentiated; Grade III' , 'Well differentiated; Grade I' and 'Undifferentiat
+ed; anaplastic; Grade IV'.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Well differentiated :
+\series default
+ Tumor cells and tissue looks most like healthy cells and tissue.The cells
+ are slower-growing.
+ These are called well-differentiated tumors and are considered low grade.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Moderately differentiated:
+\series default
+ The cells and tissue are somewhat abnormal and are called moderately differenti
+ated.
+ These are intermediate grade tumors.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Poorly differentiated:
+\series default
+ Cancer cells and tissue look very abnormal.
+ These cancers are considered poorly differentiated, since they no longer
+ have an architectural structure or pattern.
+ These tumors are considered high grade.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Undifferentiated:
+\series default
+ These undifferentiated cancers have the most abnormal looking cells.
+ These are the highest grade and typically grow and spread faster than lower
+ grade tumors
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\size large
+Grade :-
+\series default
+\size default
+ The grade for differentiation Categories are '3', '2', '1', ' anaplastic;
+ Grade IV'.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+A Stage:-
+\series default
+\size default
+ It describes whether the cancer has spread to other parts of the body,
+ called metastasis.
+ This is no longer considered early-stage or locally advanced cancer.
+ It has two categories : 'Regional' and 'Distant'.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Regional:
+\series default
+ Cancer has spread to nearby lymph nodes, tissues, or organs.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Distant:
+\series default
+ Cancer has spread to distant parts of the body.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\size large
+Estrogen Status :- 
+\series default
+\size default
+It has two category: 'Positive' and 'Negative'.When a cell becomes cancerous,
+ the number of hormone receptors increases on that cell.
+ That's how it is marked as 'positive' and 'negetive'.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Progesterone Status :-
+\series default
+\size default
+ It also has two category: 'Positive' and 'Negative'.It is also categorized
+ as estrogen status.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Regional Node Examined :-
+\series default
+\size default
+ It refers to the number of regional lymph nodes that were examined during
+ the diagnostic process.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Regional Node Positive :-
+\series default
+\size default
+ It refers to the presence of cancer cells in the regional lymph nodes.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Survival Months :- 
+\series default
+\size default
+Number of months a patient survived.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\size large
+Status :-
+\series default
+\size default
+ Status of the patient .There are two categories: 'Alive' and 'Dead'.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Visualization of the Data
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<echo=F,comment=NA>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+barplot(prop.table(table(data$status)),col=rainbow(2),main="class distribution")
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Analysis :
+\series default
+ In the diagram we can see that there are 3408 females are alive and 616
+ females are dead.
+ So, there is an imbalance in the data.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<echo=F,comment=NA>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+par(mfrow=c(3,2))
+\end_layout
+
+\begin_layout Plain Layout
+
+hist(data$Age,probability = TRUE, main = "Age distribution of patients",col="gre
+en")
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Race,main=
+\begin_inset Quotes erd
+\end_inset
+
+Distribution of Race of the patients
+\begin_inset Quotes erd
+\end_inset
+
+,col="light blue") 
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Marital.Status,main="Distribution of Marital Status",col="light
+ blue")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Estrogen.Status,main="Distribution of Estrogen Status ",col="green")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Progesterone.Status,main="Distribution of Progesterone Status",col="gre
+en")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Tumor.Size,main="Distribution of Tumor Size ")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Analysis : 
+\end_layout
+
+\begin_layout Itemize
+From the graph of 
+\series bold
+Age
+\series default
+ distribution of patients, we can see that most cancer patients are over
+ 40.
+\end_layout
+
+\begin_layout Itemize
+In the data, we see most of the people are white.
+\end_layout
+
+\begin_layout Itemize
+From the data, it is clear that most of the patients are married.
+ 
+\end_layout
+
+\begin_layout Itemize
+As we know, if a cell is cancerous it absorbs more hormones.
+ The data also estublishes that.
+\end_layout
+
+\begin_layout Itemize
+From the plot of the tumor size it can be concluded that most of the patients
+ have tumor size upto 50 mm.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<echo=F,comment=NA>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+par(mfrow=c(2,2))
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$N.Stage,main="Distribution of N Stage ",col=
+\begin_inset Quotes erd
+\end_inset
+
+green
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$X6th.Stage,main="Distribution of X6th Stage ",col=
+\begin_inset Quotes erd
+\end_inset
+
+light blue
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$A.Stage,main="Distribution of A Stage ",col=
+\begin_inset Quotes erd
+\end_inset
+
+light blue
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Grade,main="Distribution of Grade ",col=
+\begin_inset Quotes erd
+\end_inset
+
+green
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Analysis :
+\end_layout
+
+\begin_layout Itemize
+From the distribution of 
+\series bold
+N Stage
+\series default
+ ,we can see in the data most of the cancer has spread to 1 to 3 axillary
+ lymph nodes and/or the internal mammary lymph nodes.
+\end_layout
+
+\begin_layout Itemize
+We can see in the 
+\series bold
+X6th Stage
+\series default
+ distribution that among the patients, any 1 of these conditions has happened.The
+re is no evidence of a tumor in the breast, but the cancer has spread to
+ 1 to 3 axillary lymph nodes.
+ It has not spread to distant parts of the body (T0, N1, M0).
+ The tumor is 20 mm or smaller and has spread to 1 to 3 axillary lymph nodes
+ (T1, N1, M0).
+ The tumor is larger than 20 mm but not larger than 50 mm and has not spread
+ to the axillary lymph nodes (T2, N0, M0).
+\end_layout
+
+\begin_layout Itemize
+From the distribution of 
+\series bold
+A Stage
+\series default
+, in most of the cases cancer has spread to nearby lymph nodes, tissues,
+ or organs.
+\end_layout
+
+\begin_layout Itemize
+From the distribution of 
+\series bold
+Grade
+\series default
+ it is clear that most of the cancer cells are moderately differentiated.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<fig.height=10,fig.width=12,echo=F,comment=NA>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+df=data[,4:14]
+\end_layout
+
+\begin_layout Plain Layout
+
+library(knitr)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(ggplot2)))
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(ggcorrplot)))
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(tidyverse)))
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+model.matrix(~0+., data=df)%>% 
+\end_layout
+
+\begin_layout Plain Layout
+
+ cor(use="pairwise.complete.obs")%>% 
+\end_layout
+
+\begin_layout Plain Layout
+
+ ggcorrplot(show.diag=FALSE, type="lower", lab=TRUE, lab_size=2)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Analysis :
+\series default
+ From the defination we know that, X6th stage is consist of N stage and
+ T stage.
+ We can see that from the correlation matrix also.
+ The correlation between X6th stage and T stage and the correlation between
+ X6th stage between N stage is higher than the others.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Methodology
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To fit models, we split the data set into 2 parts: 70% for train and 30%
+ for test.
+ And the data set is splitted into train set and test set for 100 times.
+\end_layout
+
+\begin_layout Standard
+\align left
+We also note the accuracy of the models (we display only the minimum accurecy,me
+an accurecy and maximum accurecy).
+ And compare the models.
+\end_layout
+
+\begin_layout Standard
+Here we work with 3 models named Random Forest model, Support Vector Machine
+ and K-Nearest Neighbour.
+\end_layout
+
+\begin_layout Standard
+For Random Forest and SVM we use K-Fold corss validation ,where we take
+ K=5.
+\end_layout
+
+\begin_layout Standard
+\align left
+Also we draw the ROC curves for the models by using Specificity and Sensitivity.
+\end_layout
+
+\begin_layout Standard
+Here the confusion matrix is,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename E:/4th sem project/644aea65cefe35380f198a5a_class_guide_cm08.png
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Specificity = 
+\series default
+
+\begin_inset Formula $\frac{TN}{FP+TN}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Sensitivity = 
+\series default
+
+\begin_inset Formula $\frac{TP}{TP+FN}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Accurecy = 
+\series default
+
+\begin_inset Formula $\frac{TN+TP}{FP+TN+FN+TP}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Random Forest Model
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The decision tree is tree shape diagram or chart that helps determine a
+ course of action or show a statistical probability.
+ The chart is called a decision tree due to its resemblance to the namesake
+ plant, usually outlined as an upright or a horizontal diagram that branches
+ out.
+ Beginning from the decision it (called a "node"); each "branch" of decision
+ tree which represents possible decision or outcome, or reaction.
+ The furthest branches on the tree represent the end results of a certain
+ decision pathway and are called the "leaves".
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The decision tree is graphical depiction of a decision and every potential
+ outcome or result of making that decision.
+ Individuals deploy decision tree in variety of situations, from something
+ simple and personal to more complex industrial, scientific, or microeconomic
+ undertakings.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+By displaying a sequence of steps, a decision tree give people an effective
+ and easy way to visualize and understands the potential effect of a decision
+ and its range of possible outcomes.
+ The decision tree also helps people identify every potential option and
+ weigh each course of action against the risk and reward so that each option
+ can yield.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An organization can deploy decision tree as a kind of decision support machine.
+ The structured model allows the reader of the chart to see how and why
+ one would choice may lead to next, with the use of the branches indicating
+ mutually exclusive options.
+ The structure can allow users to take problem with multiple possible solutions
+ and to display these solutions in simple, easy-to-understand format that
+ also shows the relationship between different events and decisions.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename E:/4th sem project/RF_Pic1.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Description of the above Figure:
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Root Node: 
+\series default
+Start at the root node, which contains the entire dataset.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Selecting the Best Attribute:
+\series default
+ We use a metric like Gini impurity, entropy, or information gain, the best
+ attribute to split the data.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Splitting:
+\series default
+ Choose the best feature and split point to divide the dataset into subsets.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Recursive Splitting:
+\series default
+ Apply the splitting process recursively to each subset.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Stopping Criteria:
+\series default
+ Stop the splitting process when a stopping criterion is met (e.g., maximum
+ depth, minimum samples per leaf).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Leaf Nodes: 
+\series default
+Assign a class label (for classification) or a continuous value (for regression)
+ to the leaf nodes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Metrics for Splitting
+\series default
+ :
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Gini Impurity:
+\series default
+ Measures the likelihood of an incorrect classification of a new instance
+ if it was randomly classified according to the distribution of classes
+ in the dataset.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+Gini=1-\sum_{i=1}^{n}p_{i}^{2}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Where 
+\begin_inset Formula $p_{i}$
+\end_inset
+
+ is the probability of an instance being classified into 
+\begin_inset Formula $i^{th}$
+\end_inset
+
+ class.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Entropy: 
+\series default
+Measures the amount of uncertainty or impurity in the dataset.
+ Then the Entropy is given by 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+E=\sum_{i=1}^{n}-p_{i}log_{2}(p_{i})
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $p_{i}$
+\end_inset
+
+ is the probability of an instance being classified into ith class.
+ 
+\end_layout
+
+\begin_layout Standard
+If entropy of a state is high, then we are very uncertain about the randomly
+ picked point.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Information Gain:
+\series default
+ Measures the reduction in entropy or Gini impurity after a dataset is split
+ on an attribute.
+ Then
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Formula 
+\[
+IG(i)=E(Parent)-\sum_{i=1}^{n}w_{i}E(child_{i})
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The model compares every possible split and takes the one that maximizes
+ information gain.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Advantages :
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Interpretability:
+\series default
+ Decision trees are easy to understand and interpret.
+ The model can be visualized, and the decision-making process is transparent.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+No Need for Data Normalization:
+\series default
+ They do not require data normalization or scaling.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Handling Non-Linear Relationships:
+\series default
+ Decision trees can capture non-linear relationships between features and
+ the target variable.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Feature Importance: 
+\series default
+They provide a measure of feature importance, which can be useful for feature
+ selection.
+ Disadvantages Overfitting: Decision trees can easily overfit the training
+ data, especially if they are deep and have many leaves.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Disadvantages :
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Overfitting:
+\series default
+ Decision trees can easily overfit the training data, especially if they
+ are deep and have many leaves.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Instability:
+\series default
+ Small changes in the data can lead to different tree structures, making
+ them sensitive to data variability.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Bias:
+\series default
+ They can be biased towards features with more levels (for categorical variables
+) or towards continuous variables with more possible splits.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+IF WE ALREADY HAVE DECISION TREE, WHY DO WE NEED RANDOM FOREST? 
+\end_layout
+
+\begin_layout Itemize
+Decision trees are highly sensitive to the training data which could result
+ in high variance.
+ 
+\end_layout
+
+\begin_layout Itemize
+Complex decision trees tend to overfit.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A Random Forest is an ensemble learning algorithm used for classification,
+ regression, and other tasks.
+ It operates by constructing a multitude of decision trees during training
+ and outputting the class that is the mode of the classes (classification)
+ or mean prediction (regression) of the individual trees.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+The random Forest algorithm works in several steps which are discussed below:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Ensemble of Decision Trees :
+\series default
+ Random Forest belongs to the ensemble learning family of algorithms, that
+ simply means it combines multiple models to improve overall performance.
+ By aggregating the predictions of several models, it aims to reduce the
+ risk of overfitting and improve generalization.
+ Random Forest leverages the power of ensemble learning by constructing
+ an army of Decision Trees.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Random Feature Selection :
+\series default
+ In addition to using different data subsets, Random Forest also introduces
+ randomness in the feature selection process.
+ At each split in a decision tree, a random subset of features is selected,
+ and the best split is chosen from this subset.
+ This further diversifies the trees and helps in reducing correlation among
+ them.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Bootstrap Aggregating (Bagging) : 
+\series default
+The algorithm employs a technique called bootstrap aggregating, or bagging.
+ This involves generating multiple subsets of the original training dataset
+ by sampling with replacement.
+ Each subset is used to train a different decision tree.
+ This introduces diversity among the trees, as each tree sees a different
+ set of data points.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Decision Making and Voting : 
+\series default
+When it comes to making predictions, each decision tree in the Random Forest
+ casts its vote.
+ For classification tasks, the final prediction is determined by the mode
+ (most frequent prediction) across all the trees.
+ In regression tasks, the average of the individual tree predictions is
+ taken.
+ This internal voting mechanism ensures a balanced and collective decision-makin
+g process.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename E:/4th sem project/RF2_pic.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Advantages : 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+High Accuracy:
+\series default
+ By averaging multiple trees, Random Forest often achieves higher accuracy
+ than a single decision tree.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Reduced Overfitting:
+\series default
+ The combination of bagging and random feature selection helps in reducing
+ overfitting, making the model more robust.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Feature Importance:
+\series default
+ Provides insights into feature importance, which can be useful for understandin
+g the underlying data.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Scalability:
+\series default
+ Handles large datasets and high-dimensional data efficiently.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+Disadvantages : 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Complexity:
+\series default
+ The model can be less interpretable than a single decision tree due to
+ the combination of multiple trees.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Training Time and Resources:
+\series default
+ Training multiple trees can be computationally intensive and requires more
+ memory.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Prediction Speed:
+\series default
+ Making predictions can be slower compared to simpler models, especially
+ when the forest is large.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Support Vector Machine
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Support Vector Machine(SVM) is an approach for classification.SVM is a generaliza
+tion of a simple and intuitive classifier called the 
+\series bold
+Maximal Margin Classifier .
+ 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+WHAT IS MAXIMAL MARGIN CLASSIFIER ?
+\end_layout
+
+\begin_layout Standard
+\align left
+If our data can be perfectly separate by a hyperplane , then there will
+ be infinitely many such hyperplanes.Now in order to construct a classifier
+ based on separating hyperplane, a natural choice is maximal margin hyperplane.Th
+e maximal margin hyperplane is the separating hyperplane for which the margin
+ is largest, that is , it is the hyperplane has the farthest minimum distance
+ to the training observation.We can classify a test observation based on
+ which side of maximal margin hyperplane it lies.This is nown as maximal
+ margin classifier.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ../support-vector-machine-algorithm.png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Support Vector Classifier :
+\end_layout
+
+\begin_layout Standard
+\align left
+In the above example if we add a new observation, then it might happen that
+ the separating hyperplane changes dramatically.That is the resulting maximal
+ hyperplane is not statisfactory.This is problematic because the distance
+ of an observation from the hyperplane can be seen as a measure of our confidenc
+e that the observation was correctly classified.Also the fact of dramatic
+ change in separating hyperplane may lead the overfitting in the training
+ observation.
+\end_layout
+
+\begin_layout Standard
+\align left
+That means it could be worthwhile to misclassify a few training observation
+ in order do better job in classifying the remaining observation.
+ The support vector classifier does exactly the same.Rather than seeking
+ the largest possible margin so that every observation is not only on the
+ correct side of the hyperplane but also on the correct side of the margin,we
+ instead allow some observation to be on the incorrect side of the margin
+ or incorrect side of the hyperplane.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+The support vector classifier is the solution of the optimization problem
+ –
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+maximize_{\beta_{1},...,\beta_{p},\epsilon_{1,...,}\epsilon_{n}}M
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Subect to 
+\begin_inset Formula 
+\[
+\sum_{j=1}^{p}\beta_{j}^{2}=1
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+y_{i}(\beta_{0}+\beta_{1}x_{i1}+.......+\beta_{p}x_{ip})\geq M(1-\epsilon_{i})
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\epsilon_{i}\geq0,\sum_{i=1}^{n}\epsilon_{i}\leq C
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Where,
+\end_layout
+
+\begin_layout Standard
+\align left
+M is the 
+\series bold
+width
+\series default
+ of the Margin.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+C is the tuning parameter.
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset Formula $\epsilon_{1},.......,\epsilon_{n}$
+\end_inset
+
+ are the slack variables that allow individual observations to be on the
+ wrong side of the margin or the hyperplane.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Role of the Tuning Parameter :
+\end_layout
+
+\begin_layout Standard
+\align left
+C bounds the sum of 
+\begin_inset Formula $\epsilon_{i}'s$
+\end_inset
+
+ and so it determines the number and severity of the violations to the margin
+ (and to the hyperplane) that we will tolerate.We can think of C as a budget
+ for the amount that the margin can be violated by n observations.
+\end_layout
+
+\begin_layout Standard
+\align left
+If 
+\series bold
+C=0 , 
+\series default
+then the budget for the margin can be violated by n observations is 0.That
+ implies the maximal margin hyperplane is used if and only if the two classes
+ are fully separable.
+\end_layout
+
+\begin_layout Standard
+\align left
+For 
+\series bold
+C>0
+\series default
+, not more than C observations can be on the wrong side of the hyperplane.
+\end_layout
+
+\begin_layout Standard
+\align left
+As C increases, we become more tolerant of violations of the margin and
+ so the margin widen.Conversely as C decreases we become less tolerent of
+ violations of the margin and so the margin narrows.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+In practice C is treated as a tuning parameter that choosen via Cross-Validation.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Non-linear Decision Boundary :–
+\end_layout
+
+\begin_layout Standard
+\align left
+Till now we have discussed about the support vector classifier in terms
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+
+\series bold
+hyperplane
+\series default
+
+\begin_inset Quotes erd
+\end_inset
+
+ , i.e, we are classifying using an linear decision boundary.
+\end_layout
+
+\begin_layout Standard
+\align left
+But in practice it may happen that we can't draw any linear boundary between
+ the classes.Then we make a non-linear decision boundary.
+ We can illustrate this by the following figure :–
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ../svm-figure-2.webp
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Support Vector Machine : 
+\series default
+Support vector machine is an extension of support vector classifier that
+ results from enlarging the feature space in a specific way, using 
+\series bold
+Karnels
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Karnels : 
+\series default
+A Karnel is a function that quantifies the similarity of the observations.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Linear SVM : 
+\series default
+When we classify the classes using 
+\series bold
+linear Karnel
+\series default
+ then it is called linear SVM.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Non-linear SVM :
+\series default
+ When we classify the classes using 
+\series bold
+non-linaer Karnel
+\series default
+ (such as, polynomial karnel,radial karnel etc.) then it is called non-linear
+ SVM.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+K-Nearest Neighbour
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+The k-nearest neighbors (K-NN) algorithm is a simple and versatile supervised
+ machine learning algorithm used for both classification and regression
+ tasks.
+ It's a non-parametric method, meaning it doesn't make any assumptions about
+ the underlying data distribution.
+ Instead, it makes predictions based on the similarity of input data points.
+ So, it classifies a data point based on how its neighbors are classified.
+ It stores all available cases and classifies new cases based on a similarity
+ measure.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+HOW TO DEFINE “K”?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Consider the diagram below: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/Nasima K/Downloads/knn1_img.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+The graph above represents a data set consisting of two classes — red and
+ yellow.
+ A new data point has been introduced to the data set.
+ This is shown by the blue point in the graph above.
+ We'll then assign a value to 
+\series bold
+K
+\series default
+ which denotes the number of neighbors to consider before classifying the
+ new data entry.
+ Let's assume the value of K is 3.
+ Since the value of K is 3, the KNN algorithm will only consider the 3 nearest
+ neighbors to the blue point (new entry).
+ This is represented in the picture above.
+ Out of the 3 nearest neighbors in the diagram above, the majority class
+ is red so the new entry will be assigned to that class.
+ The last data entry has been classified as red.
+ 
+\end_layout
+
+\begin_layout Standard
+\align left
+Let's assume the value of K is 7.
+ Since the value of K is 7, the KNN algorithm will only consider the 11
+ nearest neighbors to the blue point (new entry).
+ This is represented in the picture above.
+ Out of the 11 nearest neighbors in the diagram above, the majority class
+ is yellow so the new entry will be assigned to that class.
+ The last data entry has been classified as yellow.
+ 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Generally “K” is chosen as “√n” , when n is total no of data points.
+ 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+HOW TO DEFINE “NEAREST”? 
+\end_layout
+
+\begin_layout Standard
+\align left
+To define “nearest” or “distance” we use distance metrics .
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Euclidean distance : 
+\begin_inset Formula 
+\[
+d(x,y)=\sqrt{\sum_{i=1}^{n}(x_{i}+y_{i})^{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Manhattan distance : 
+\begin_inset Formula 
+\[
+d(x,y)=\sum_{i=1}^{n}|x_{i}-y_{i}|
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Minkowski distance : 
+\begin_inset Formula 
+\[
+d(x,y)=\left(\sum_{i=1}^{n}|x_{i}-y_{i}|^{p}\right)^{\frac{1}{p}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+HOW TO DEFINE “NEIGHBORS”?
+\end_layout
+
+\begin_layout Standard
+\align left
+The K data points with the smallest distances to the target point are the
+ nearest neighbors.
+ 
+\end_layout
+
+\begin_layout Standard
+\align left
+In classification problem, the class labels are determined by performing
+ majority voting.
+ In regression problem, the class label is calculated by taking average
+ of the target values of K nearest neighbors.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Advantages
+\end_layout
+
+\end_inset
+
+
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+It is simple to implement.
+ 
+\end_layout
+
+\begin_layout Itemize
+It is robust to the noisy training data.
+ 
+\end_layout
+
+\begin_layout Itemize
+No training is required before classification.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Disadvantages 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Can be cost-intensive when working with a large data set.
+ 
+\end_layout
+
+\begin_layout Itemize
+A lot of memory is required for processing large data sets.
+ 
+\end_layout
+
+\begin_layout Itemize
+Choosing the right value of K can be tricky.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Results
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+i.
+ Random Forest
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(lattice)))
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(caret)))
+\end_layout
+
+\begin_layout Plain Layout
+
+cross_val=trainControl(method='cv',number=5)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(randomForest)))
+\end_layout
+
+\begin_layout Plain Layout
+
+rfm_model_accuracy=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ RFM<-randomForest(factor(status)~Age+Race+Marital.Status+T.Stage+N.Stage +
+                 Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,trControl=cross_val ) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ pmmodel1= as.numeric(predict(RFM,newdata = test_data,type="response")) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab1= table(pmmodel1,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ rfm_model_accuracy[i]=sum(diag(tab1))/sum(tab1)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+#print(rfm_model_accuracy)#..model accuracy for test data 
+\end_layout
+
+\begin_layout Plain Layout
+
+max(rfm_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(rfm_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(rfm_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Here we can see that the maximum accurecy is around 92%, minimum accurecy
+ is around 88.8 % and the mean accurecy is around 90.6% .
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<fig.height=5,comment=NA,echo=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+varImpPlot(RFM,main="variable importance plot") 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Analysis: 
+\series default
+In the above plot, the points represents the mean decrease Gini value,indicative
+ of the importance of each variable.The higher value indicates the more importanc
+e of that variable in predicting the class (alive or dead).Removal of that
+ variable causes the model to loose accurecy in prediction.
+\end_layout
+
+\begin_layout Standard
+\align left
+Here we can see that in the data, the variable 
+\begin_inset Quotes eld
+\end_inset
+
+Survival Months
+\begin_inset Quotes erd
+\end_inset
+
+ is most important to predict survival status.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE,fig.height=5>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC)))
+\end_layout
+
+\begin_layout Plain Layout
+
+p1 <- predict(RFM, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,p1[,2],plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Random Forest Model
+\begin_inset Quotes erd
+\end_inset
+
+)  
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Therefore area under the curve (AUC) is 0.83.Thus we can say that Random forest
+ model gives a good fit to the data.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align left
+
+\series bold
+\size large
+ii.Support Vector Machine (SVM):
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Linear SVM
+\series default
+ :–
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library (e1071)))
+\end_layout
+
+\begin_layout Plain Layout
+
+svm_accuracy=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100) 
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svmfit<-svm(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage +   
+              Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                 kernel="linear")
+\end_layout
+
+\begin_layout Plain Layout
+
+ pmmodel2= as.numeric(predict(svmfit,newdata = test_data,type="response"))
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab2= table(pmmodel2,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svm_accuracy[i]=sum(diag(tab2))/sum(tab2)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+max(svm_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(svm_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(svm_accuracy) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Here we can see that the maximum accurecy is around 91 %, minimum accurecy
+ is around 87 % and the mean accurecy is around 89 % .
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE,fig.height=5>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p2 <- predict(svmfit, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p2),plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Linear SVM
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Therefore area under the curve (AUC) is 0.82.Thus we can say that the SVM
+ model using linear karnel gives a good fit to the data.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Non-linear SVM :
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+a).
+ Polynomial Kernel
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+svm_accurecy1=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE)
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ svmfit<-svm(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage +   
+              Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                 kernel="polynomial")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ pmmodel21= as.numeric(predict(svmfit,newdata = test_data,type="response"))
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab21= table(pmmodel21,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svm_accurecy1[i]=sum(diag(tab21))/sum(tab21)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+max(svm_accurecy1)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(svm_accurecy1)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(svm_accurecy1)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Here we can see that the maximum accurecy is around 90 %, minimum accurecy
+ is around 86 % and the mean accurecy is around 88% .
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE,fig.height=5>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p3 <- predict(svmfit, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p3),plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Polynomial SVM
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Therefore area under the curve (AUC) is 0.82.
+ Thus we can say that the SVM model using polynomial karnel gives a good
+ fit to the data.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+b).
+ Radial Kernel :
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+svm_accurecy2=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE)
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ svmfit<-svm(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage +   
+              Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                 kernel="radial")
+\end_layout
+
+\begin_layout Plain Layout
+
+  pmmodel22= as.numeric(predict(svmfit,newdata = test_data,type="response"))
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab22= table(pmmodel22,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svm_accurecy2[i]=sum(diag(tab22))/sum(tab22)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+} 
+\end_layout
+
+\begin_layout Plain Layout
+
+max(svm_accurecy2)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(svm_accurecy2)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(svm_accurecy2) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Here we can see that the maximum accurecy is around 90.8 %, minimum accurecy
+ is around 87 % and the mean accurecy is around 88.7% .
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE,fig.height=5>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p4 <- predict(svmfit, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p4),plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Radial SVM
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Therefore area under the curve (AUC) is 0.82.
+ Thus we can say that the SVM model using radial karnel gives a good fit
+ to the data.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+iii.
+ K-Nearest Neighbourhood :
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(lattice))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+library(caret)
+\end_layout
+
+\begin_layout Plain Layout
+
+cross_val_kn=trainControl(method='cv',number=5)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+knn_model_accuracy=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+  split<-createDataPartition(data$status,p=0.7,list=FALSE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+     knn1<- train(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage
+ +                  Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                  Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                method="knn",trControl=cross_val_kn )
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+    pmmodel3= as.numeric(predict(knn1,newdata = test_data))
+\end_layout
+
+\begin_layout Plain Layout
+
+  tab3= table(pmmodel3,test_data$status)
+\end_layout
+
+\begin_layout Plain Layout
+
+  knn_model_accuracy[i]=sum(diag(tab3))/sum(tab3)*100 
+\end_layout
+
+\begin_layout Plain Layout
+
+  } 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+print(knn1$bestTune)
+\end_layout
+
+\begin_layout Plain Layout
+
+#print(knn_model_accuracy)#..model accuracy for test data 
+\end_layout
+
+\begin_layout Plain Layout
+
+max(knn_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(knn_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(knn_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Here we can see that the maximum accurecy is around 91 %, minimum accurecy
+ is around 88 % and the mean accurecy is around 89 % .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,echo=FALSE,fig.height=5>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p5 <- predict(knn1, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,p5[,2],plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for KNN
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Therefore area under the curve (AUC) is 0.80.Thus we can say that the KNN
+ model gives a good fit to the data.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+Comparison :
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename E:/4th sem project/ROC comare.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+From the above figure we can see that the area under the curve for random
+ forest is slightly higher than the others.
+ And AUC for the linear SVM and non-linear SVM are almost same.And KNN has
+ the lowest AUC among them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Now comparing the mean accurecy rate of the models we get the following
+ figure :
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<echo=F,comment=NA,fig.height=4.5>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+x=c(90.6,88.99,87.94,88.77,89.3)
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(x,main="Model accurecy comparison",pch=c(15,19,8,21,24),cex=1.5,col=c("red",
+"blue","green","black","purple")) 
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topright",legend=c("Random Forest","linear SVM","Poly.
+ SVM","Radial SVM","KNN"),col=c("red","blue","green","black","purple"),pch=c(15,
+19,8,21,24)) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+From the figure it is clear that Random forest model has the maximum accurecy
+ and the polynomial SVM has the minimum accurecy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+R Codes
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+data<- read.csv("E:
+\backslash
+
+\backslash
+4th sem project
+\backslash
+
+\backslash
+Dataset
+\backslash
+
+\backslash
+new data.csv") 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+table(data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+data$X<- NULL 
+\end_layout
+
+\begin_layout Plain Layout
+
+data$Status<-NULL 
+\end_layout
+
+\begin_layout Plain Layout
+
+ # Convert all columns to factor
+\end_layout
+
+\begin_layout Plain Layout
+
+data <- as.data.frame(unclass(data),stringsAsFactors = TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+str(data)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Data Visualization :
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+barplot(prop.table(table(data$status)),col=rainbow(2),main="class distribution")
+\end_layout
+
+\begin_layout Plain Layout
+
+par(mfrow=c(3,2))
+\end_layout
+
+\begin_layout Plain Layout
+
+hist(data$Age,probability = TRUE, main = "Age distribution of patients",col="gre
+en")
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Race,main=
+\begin_inset Quotes erd
+\end_inset
+
+Distribution of Race of the patients
+\begin_inset Quotes erd
+\end_inset
+
+,col="light blue") 
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Marital.Status,main="Distribution of Marital Status",col="light
+ blue")
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Estrogen.Status,main="Distribution of Estrogen Status ",col="green")
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Progesterone.Status,main="Distribution of Progesterone Status",col="gre
+en")
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Tumor.Size,main="Distribution of Tumor Size ")
+\end_layout
+
+\begin_layout Plain Layout
+
+par(mfrow=c(2,2))
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$N.Stage,main="Distribution of N Stage ",col=
+\begin_inset Quotes erd
+\end_inset
+
+green
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$X6th.Stage,main="Distribution of X6th Stage ",col=
+\begin_inset Quotes erd
+\end_inset
+
+light blue
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$A.Stage,main="Distribution of A Stage ",col=
+\begin_inset Quotes erd
+\end_inset
+
+light blue
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(data$Grade,main="Distribution of Grade ",col=
+\begin_inset Quotes erd
+\end_inset
+
+green
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+df=data[,4:14]
+\end_layout
+
+\begin_layout Plain Layout
+
+library(knitr)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(ggplot2)))
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(ggcorrplot)))
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(tidyverse)))
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+model.matrix(~0+., data=df)%>% 
+\end_layout
+
+\begin_layout Plain Layout
+
+ cor(use="pairwise.complete.obs")%>% 
+\end_layout
+
+\begin_layout Plain Layout
+
+ ggcorrplot(show.diag=FALSE, type="lower", lab=TRUE, lab_size=2)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Random Forest :
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(lattice)))
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(caret)))
+\end_layout
+
+\begin_layout Plain Layout
+
+cross_val=trainControl(method='cv',number=5)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(randomForest)))
+\end_layout
+
+\begin_layout Plain Layout
+
+rfm_model_accuracy=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ RFM<-randomForest(factor(status)~Age+Race+Marital.Status+T.Stage+N.Stage +
+                 Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,trControl=cross_val ) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ pmmodel1= as.numeric(predict(RFM,newdata = test_data,type="response")) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab1= table(pmmodel1,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ rfm_model_accuracy[i]=sum(diag(tab1))/sum(tab1)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+max(rfm_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(rfm_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(rfm_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+varImpPlot(RFM,main="variable importance plot") 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC)))
+\end_layout
+
+\begin_layout Plain Layout
+
+p1 <- predict(RFM, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,p1[,2],plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Random Forest Model
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Linear Support Vector Machine :
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library (e1071)))
+\end_layout
+
+\begin_layout Plain Layout
+
+svm_accuracy=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100) 
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svmfit<-svm(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage +   
+              Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                 kernel="linear")
+\end_layout
+
+\begin_layout Plain Layout
+
+ pmmodel2= as.numeric(predict(svmfit,newdata = test_data,type="response"))
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab2= table(pmmodel2,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svm_accuracy[i]=sum(diag(tab2))/sum(tab2)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+max(svm_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(svm_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(svm_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p2 <- predict(svmfit, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p2),plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Linear SVM
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Non-Linear SVM :
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+svm_accurecy1=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE)
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ svmfit<-svm(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage +   
+              Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                 kernel="polynomial")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ pmmodel21= as.numeric(predict(svmfit,newdata = test_data,type="response"))
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab21= table(pmmodel21,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svm_accurecy1[i]=sum(diag(tab21))/sum(tab21)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+max(svm_accurecy1)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(svm_accurecy1)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(svm_accurecy1)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p3 <- predict(svmfit, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p3),plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Polynomial SVM
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+svm_accurecy2=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+ split<-createDataPartition(data$status,p=0.7,list=FALSE)
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ svmfit<-svm(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage +   
+              Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                 Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                 kernel="radial")
+\end_layout
+
+\begin_layout Plain Layout
+
+  pmmodel22= as.numeric(predict(svmfit,newdata = test_data,type="response"))
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+ tab22= table(pmmodel22,test_data$status) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ svm_accurecy2[i]=sum(diag(tab22))/sum(tab22)*100
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+} 
+\end_layout
+
+\begin_layout Plain Layout
+
+max(svm_accurecy2)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(svm_accurecy2)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(svm_accurecy2) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p4 <- predict(svmfit, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p4),plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for Radial SVM
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+KNN : 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+set.seed(123)
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(lattice))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+library(caret)
+\end_layout
+
+\begin_layout Plain Layout
+
+cross_val_kn=trainControl(method='cv',number=5)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+knn_model_accuracy=c()
+\end_layout
+
+\begin_layout Plain Layout
+
+for(i in 1:100)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+  split<-createDataPartition(data$status,p=0.7,list=FALSE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+ train_data<-data[split,] 
+\end_layout
+
+\begin_layout Plain Layout
+
+ test_data=data[-split,]
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+     knn1<- train(factor(status)~Age+Race+Marital.Status+T.Stage + N.Stage
+ +                  Grade+A.Stage +Tumor.Size+Estrogen.Status+Progesterone.Status+
+                  Regional.Node.Examined+Reginol.Node.Positive+Survival.Months,data=
+ train_data,                method="knn",trControl=cross_val_kn )
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+    pmmodel3= as.numeric(predict(knn1,newdata = test_data))
+\end_layout
+
+\begin_layout Plain Layout
+
+  tab3= table(pmmodel3,test_data$status)
+\end_layout
+
+\begin_layout Plain Layout
+
+  knn_model_accuracy[i]=sum(diag(tab3))/sum(tab3)*100 
+\end_layout
+
+\begin_layout Plain Layout
+
+  } 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+print(knn1$bestTune)
+\end_layout
+
+\begin_layout Plain Layout
+
+#print(knn_model_accuracy)#..model accuracy for test data 
+\end_layout
+
+\begin_layout Plain Layout
+
+max(knn_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+min(knn_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+mean(knn_model_accuracy)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+suppressWarnings(suppressMessages(library(pROC))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+p5 <- predict(knn1, newdata=test_data,type = "prob")
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,p5[,2],plot=TRUE,main=
+\begin_inset Quotes erd
+\end_inset
+
+ROC curve for KNN
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Comparison :
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,p1[,2],plot=TRUE,col=
+\begin_inset Quotes erd
+\end_inset
+
+red
+\begin_inset Quotes erd
+\end_inset
+
+,main="ROC Comparison")
+\end_layout
+
+\begin_layout Plain Layout
+
+par(new=TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p2),plot=TRUE,col=
+\begin_inset Quotes erd
+\end_inset
+
+blue
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+par(new=TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p3),plot=TRUE,col=
+\begin_inset Quotes erd
+\end_inset
+
+green
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+par(new=TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,order(p4),plot=TRUE,col=
+\begin_inset Quotes erd
+\end_inset
+
+black
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Plain Layout
+
+par(new=TRUE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+roc(test_data$status,p5[,2],plot=TRUE,col="yellow")
+\end_layout
+
+\begin_layout Plain Layout
+
+legend(
+\begin_inset Quotes eld
+\end_inset
+
+bottomright
+\begin_inset Quotes erd
+\end_inset
+
+,legend=c("Random Forest","linear SVM","Poly.
+ SVM",
+\begin_inset Quotes erd
+\end_inset
+
+Radial SVM
+\begin_inset Quotes erd
+\end_inset
+
+,
+\begin_inset Quotes erd
+\end_inset
+
+KNN
+\begin_inset Quotes erd
+\end_inset
+
+),col=c("red","blue","green",
+\begin_inset Quotes erd
+\end_inset
+
+black
+\begin_inset Quotes erd
+\end_inset
+
+,
+\begin_inset Quotes erd
+\end_inset
+
+yellow
+\begin_inset Quotes erd
+\end_inset
+
+),lty=c(1,1,1,1,1)) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<eval=FALSE>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+x=c(90.6,88.99,87.94,88.77,89.3)
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(x,main="Model accurecy comparison",pch=c(15,19,8,21,24),cex=1.5,col=c("red",
+"blue","green","black","purple")) 
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topright",legend=c("Random Forest","linear SVM","Poly.
+ SVM","Radial SVM","KNN"),col=c("red","blue","green","black","purple"),pch=c(15,
+19,8,21,24)) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+Conclusion
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+abv
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+
+\series bold
+\size largest
+Future Prospectus
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+For the lack of time we could not think of building any model which can
+ fulfill the classification goal with more accuracy.
+ In future we are aiming to collect a large number of patient dataset from
+ India and United States and applying our method to get the comparative
+ result.
+ In the future, a possible development that would complement the use of
+ the models would be the development of a mobile application based on services
+ to consume the implemented model.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+
+\series bold
+\size largest
+References
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+An Introduction to Statistical Learning: with Applications in R.
+ by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+\end_layout
+
+\begin_layout Itemize
+The Elements of Statistical Learning.
+ by Jerome Friedman, Robert Tibshirani, Trevor Hastie
+\end_layout
+
+\begin_layout Itemize
+Machine Learning Algorithms For Breast Cancer Prediction And Diagnosis:
+ Mohammed Amine Naji a, Sanaa El Filalib Kawtar Aarikac, EL Habib Benlahmard,
+ Rachida Ait Abdelouhahide, Olivier Debauchef 
+\end_layout
+
+\begin_layout Itemize
+Prediction of Breast Cancer, Comparative Review of Machine Learning Techniques
+ and their Analysis : NOREEN FATIMA , LI LIU , HONG SHA , AND HAROON AHMED
+\end_layout
+
+\begin_layout Itemize
+A Comparative Analysis of Breast Cancer Detection and Diagnosis Using Data
+ Visualization and Machine Learning Applications: Industrial Engineering
+ Department, Antalya Bilim University
+\end_layout
+
+\end_body
+\end_document
